@@ -1,57 +1,132 @@
-<p align="center">
-  <img src="https://media.tenor.com/7lJkXW6vK1cAAAAC/corgi-smirk.gif" width="180"/>
-</p>
-<h1 align="center">Hi 👋, I'm Aman Bangera</h1>
-<h3 align="center">Building Systems That Think, Not Just Code That Runs</h3>
+<!--
+    Hey there, I'm Aman Bangera!
+    Glad you're poking around my README source 👀
+    Feel free to take inspiration!
+    
+    But maybe follow me while you're here? Just a click → github.com/amanbangeraa
+    Also connect with me on LinkedIn @amanbangera :))
+-->
 
----
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=120&section=header" alt="header"/>
 
-### 🚀 About Me
-- 🧠 Engineer focused on **AI + Embedded Systems + Real-world Problem Solving**
-- 🏆 Hackathon Winner | Top 10 @ IEEE Anvesham (Karnataka)
-- ⚡ I don’t just write code — I build systems that *decide*
-
----
-
-### 📬 Reach Me
-- 📧 **atharvbangera2005@gmail.com**
-
----
-
-### 🤝 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/amanbangera" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanbangera" height="30" width="40" />
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4500&pause=500&color=00b4d8&width=500&lines=Hey+there%2C+I'm+Aman+Bangera+%F0%9F%91%8B;ECE+Engineer+%40+Sahyadri;Hackathon+Winner+%F0%9F%8F%86;Builder+of+Things+That+(Mostly)+Work" alt="Typing SVG"/>
 </a>
-<a href="https://instagram.com/amanbangera" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amanbangera" height="30" width="40" />
-</a>
-</p>
+
+<!--
+    Terminal GIF — create your own at https://www.terminalgif.com
+    Replace the src below with your custom terminal GIF once made!
+-->
+<div>
+    <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="480" alt="Chaotic coder GIF"/>
+</div>
+
+> *me shipping code at 2am and praying the compiler agrees with my life choices*
 
 ---
 
-### 🧰 Tech Stack
-<p align="left"> 
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/> </a>
-</p>
+### 👤 About Me
+
+```python
+aman = {
+    "name"      : "Aman Bangera",
+    "degree"    : "B.E. Electronics & Communication Engineering",
+    "college"   : "Sahyadri College of Engineering & Management",
+    "location"  : "Mangaluru, Karnataka 🌊",
+    "gpa"       : "8.5 / 10.0",
+    "website"   : "amanbangera.dev",
+    "fun_fact"  : "Speaks 6 languages. Machines understand him best.",
+}
+```
+
+I'm a 3rd-year ECE undergrad who builds things at the intersection of hardware and software —
+from AI-powered inventory systems to personal voice assistants.
+I attend hackathons the way others attend parties.
 
 ---
 
-### 🧩 What I Build
-- 🤖 AI-powered systems for **perishable inventory & agriculture**
-- 🚆 Low-cost **railway fault detection systems**
-- 🧠 Smart automation using **ML + Embedded + IoT**
-- 🌐 Interfaces that make complex systems usable
+### 🛠️ Main Skills
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,c,html,css,tensorflow,git,github,figma,arduino,wordpress)](https://skillicons.dev)
+
+### 📚 Currently Learning
+
+[![Learning](https://skillicons.dev/icons?i=react,nodejs,aws)](https://skillicons.dev)
 
 ---
 
-### ⚡ Fun Fact
-I didn’t get pushed into engineering…  
-I chose it — and now I’m making it earn its respect.
+### 🚀 Projects
+
+**📡 Digital Noticeboard / Transit Digital Signage System**
+> Real-time digital signage infrastructure for airports, railway stations & bus terminals.
+> CMS + APIs + networked media players working in perfect sync.
+> Appreciated by the Principal. Assigned by the HOD. Zero complaints. (Allegedly.)
+
+---
+
+**👁️ StockEye — AI-powered Inventory System**
+> ML model that detects freshness of perishable produce. RFID + ESP32 for automated tracking.
+> Won **HackHarbor** 🥇 and **Skill Sangam** 🥇 — not a coincidence.
+
+---
+
+**🤖 Murph — Personal AI Assistant**
+> Wake-word detection. Real-time speech transcription. Voice-controlled PC automation.
+> Named it Murph. It listens. It executes. It doesn't judge.
+
+---
+
+### 🏆 Achievements
+
+| | |
+|---|---|
+| 🥇 | HackHarbor Hackathon — **1st Place** |
+| 🥇 | Skill Sangam Hackathon — **1st Place** |
+| 🎯 | IEEE Anveshan — **Top 10 Finalist** out of 56 teams |
+| 🎙️ | VTU VRIF TCOE Hub Inauguration, Bengaluru — Presented PLC-based project |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanbangeraa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanbangeraa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=amanbangeraa&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8)
+
+</div>
+
+---
+
+### 🤝 Connect with me!
+
+<div>
+    <a href="https://linkedin.com/in/amanbangera">
+        <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00b4d8" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/amanbangeraa">
+        <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8" alt="GitHub"/>
+    </a>
+    <a href="mailto:aman.bangeraa@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8" alt="Gmail"/>
+    </a>
+    <a href="https://amanbangera.dev">
+        <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00b4d8" alt="Portfolio"/>
+    </a>
+</div>
+
+---
+
+### 👔 Recruiter?
+
+> [!IMPORTANT]
+> <a href="https://amanbangera.dev">Check out my portfolio & resume →</a>
+
+<!--
+    Thanks for stopping by! Don't forget to ⭐ something :)
+-->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=120&section=footer" alt="footer"/>
