@@ -7,7 +7,7 @@
     Also connect with me on LinkedIn @amanbangera :))
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=120&section=header" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Aman%20Bangera&fontSize=60&fontColor=ffffff&fontAlignY=70&desc=ECE%20Engineer%20%7C%20Builder%20%7C%20Hackathon%20Winner&descAlignY=85&descSize=16" alt="header"/>
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4500&pause=500&color=00b4d8&width=500&lines=Hey+there%2C+I'm+Aman+Bangera+%F0%9F%91%8B;ECE+Engineer+%40+Sahyadri;Hackathon+Winner+%F0%9F%8F%86;Builder+of+Things+That+(Mostly)+Work" alt="Typing SVG"/>
@@ -17,8 +17,8 @@
     Terminal GIF — create your own at https://www.terminalgif.com
     Replace the src below with your custom terminal GIF once made!
 -->
-<div>
-    <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="480" alt="Chaotic coder GIF"/>
+<div align="center">
+    <img src="https://media4.giphy.com/media/3oKIPaIKxFuGisDGLK/200.gif" width="480" alt="Chaotic coder GIF"/>
 </div>
 
 > *me shipping code at 2am and praying the compiler agrees with my life choices*
@@ -41,7 +41,7 @@ aman = {
 
 I'm a 3rd-year ECE undergrad who builds things at the intersection of hardware and software —
 from AI-powered inventory systems to personal voice assistants.
-I attend hackathons the way others attend parties.
+I attend hackathons the way others attend parties. Except I actually win.
 
 ---
 
@@ -95,7 +95,9 @@ I attend hackathons the way others attend parties.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanbangeraa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=amanbangeraa&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8)
+![Trophies](https://github-profile-trophy.vercel.app/?username=amanbangeraa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)
+
+![Snake animation](https://raw.githubusercontent.com/amanbangeraa/amanbangeraa/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -129,4 +131,4 @@ I attend hackathons the way others attend parties.
     Thanks for stopping by! Don't forget to ⭐ something :)
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&reversal=true" alt="footer"/>
